@@ -23,6 +23,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'jaxbot/semantic-highlight.vim'
 Plugin 'mattn/emmet-vim'
+Plugin 'ekalinin/Dockerfile.vim'
 
 
 " All of your Plugins must be added before the following line
