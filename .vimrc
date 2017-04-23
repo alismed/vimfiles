@@ -48,4 +48,4 @@ map <C-n> :NERDTreeToggle<CR>
 set laststatus=2
 set statusline+=%#warningmsg#
 set statusline+=%*
-
+set number
